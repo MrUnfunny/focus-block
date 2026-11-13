@@ -1,0 +1,36 @@
+# Sites blocked during a focus session. One domain per line.
+# "www." is added automatically for bare domains. Lines starting with # are ignored.
+# After install, edit the live list from the app ("Edit list") or at
+# C:\ProgramData\FocusBlock\sites.txt (needs admin).
+
+# video
+youtube.com
+m.youtube.com
+youtu.be
+netflix.com
+primevideo.com
+twitch.tv
+
+# social
+instagram.com
+facebook.com
+x.com
+twitter.com
+reddit.com
+old.reddit.com
+tiktok.com
+linkedin.com
+quora.com
+pinterest.com
+
+# chat
+web.whatsapp.com
+web.telegram.org
+discord.com
+
+# news
+news.google.com
+news.ycombinator.com
+
+# shopping
+amazon.com
